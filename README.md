@@ -51,6 +51,7 @@ git clone https://github.com/sampatbadhe/multi-db-app.git
       ```
 
     - **With `disable_joins` option**
+
       ```ruby
       # Set the user
       > user = User.find_by(email: 'luke@example.com')
@@ -58,4 +59,4 @@ git clone https://github.com/sampatbadhe/multi-db-app.git
       > user.messages
       # We can use `has_one :through` association to fetch the latest message on the latest event of a user
       > user.latest_message
-     ```
+      ```
