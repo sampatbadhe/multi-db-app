@@ -1,6 +1,6 @@
 # Multi-Database Application
 
-Sample Rails applications for demonstrating [Rails 7 - Associations across databases with disable_joins](https://blog.kiprosh.com/rails7-association-across-databases-with-disable-joins/)
+Sample Rails application for demonstrating [Rails 7 - Associations across databases with disable_joins](https://blog.kiprosh.com/rails7-association-across-databases-with-disable-joins/)
 
 * Ruby version: 2.7.1
 
